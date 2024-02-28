@@ -49,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-level{
+	border-color:brown !important;
+}
+.language-progress{
+	background-color: indianred !important;
+}
